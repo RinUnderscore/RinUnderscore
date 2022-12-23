@@ -1,4 +1,4 @@
-# Heyo! My name is Rin!
+# Heyo! My name is Rin/Ethan!
 I am a freelancer, indie game dev, MLH participant and teacher for Grades K-8!
 
 ## About Me
