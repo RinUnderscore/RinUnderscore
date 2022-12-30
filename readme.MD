@@ -7,4 +7,5 @@ I code and stuff, I like to test projects and create some fun games and interact
 ## Projects (TBD)
 - Virus Isolatior (VM Python?) (DECIDING)
 - Windows to Linux (Using Linux Commands on Windows Command Line Python) (ON HOLD)
-- Netcat File Reverse Shell (IN PROGRESS)
+- Netcat File Reverse Shell C++ (IN PROGRESS)
+- Simply Graphing (IN PROGRESS)
