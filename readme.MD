@@ -9,3 +9,4 @@ I code and stuff, I like to test projects and create some fun games and interact
 - Windows to Linux (Using Linux Commands on Windows Command Line Python) (ON HOLD)
 - Netcat File Reverse Shell C++ (IN PROGRESS)
 - Simply Graphing (IN PROGRESS)
+- a tale of fire and flames text-based MMORPG (IN PROGRESS) <- may or may not be text bc too lazy to do art
