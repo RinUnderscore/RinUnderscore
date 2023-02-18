@@ -1,4 +1,6 @@
 # Heyo! My name is Rin/Ethan!
+-- note: my fiverr is closed for now, busy with stuff... might reopen eventually --
+
 I am a freelancer, indie game dev(ish), backend developer, MLH participant and teacher for Grades 3-8!
 
 I have 2 years of experience of teaching in person Grades 3-5 in my LSCC Program (Lower School Coding Program).
