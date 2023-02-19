@@ -21,7 +21,7 @@ Other:
 Grades 5-8:
 - Python (Pygame and Base 3.0)
 - Javascript on Web
-- Javascript for React and Electron (in addition to other Node.js modules)
+- Javascript for React and Electron Natives (in addition to other Node.js modules)
 - C# for Unity and .NET
 
 If these seem interesting for you or your child, please send an email to [my email](mailto:riuunderscoreofficial@gmail.com). Thank you!
